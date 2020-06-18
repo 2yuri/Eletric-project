@@ -12,4 +12,4 @@ It's basically a resistor calculator 🤙🏻
 
 ## Output
 
-- Alert with all values Voltage, Current, Resistance, and Ohm's Law
+- Alert with all results, Voltage, Current, Resistance, and Ohm's Law
